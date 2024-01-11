@@ -19,7 +19,7 @@ I am a Front-End Web Designer <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🔭 I’m studying front_end engineering with ALX and I'm on my journey to great code.
 - 🌱 Exploring C, Python and Linux OS.
 - ⚡ In my free time I take walks to see applications to code directly.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ian Gichengo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Ian Gichengo)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ian Gichengo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-gichengo-b088b824a/)
 
 ---
 
