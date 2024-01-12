@@ -24,8 +24,6 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 ---
 
 ### 📫 How to reach me:
-
-## 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
 ---
 
