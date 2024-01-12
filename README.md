@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media2.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif?cid=ecf05e47bgnnzuamx0676dqepk5k586305ad4xwe1m61poei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
 
