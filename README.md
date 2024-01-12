@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/iangichengo" target="_blank"><img src="https://th.bing.com/th/id/OIG.CuwkarsifIAEK4LrZj0K?pid=ImgGn" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/iangichengo" target="_blank"><img src="https://th.bing.com/th/id/OIG.c5saDPZQmM9DTqvP2D95?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
