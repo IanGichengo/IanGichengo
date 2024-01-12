@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-With a fervent passion for crafting seamless user experiences, I stand out as a front-end engineer. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
+  With a fervent passion for crafting seamless user experiences, I stand out as a front-end engineer. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
 
 My expertise spans a wide array of modern web technologies, including HTML5, CSS3, JavaScript, and popular frameworks like React and Angular. My work ethic is unparalleled; I approach each task with a blend of precision and creativity, ensuring that the end product isn’t just functional but also aesthetically pleasing.
 
