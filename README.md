@@ -23,9 +23,10 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 - ⚡ In my free time I take walks to see applications to code directly.
 ---
 
-## 📫 How to Reach Me
+### 📫 How to reach me:
 
-- ![Gmail](https://github.com/Readme-Workflows/Readme-Icons) iangatimu6@gmail.com
+## 📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
