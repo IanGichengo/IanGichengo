@@ -25,8 +25,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 ## 📫 How to Reach Me
 
-- ![Gmail](https://github.com/Readme-Workflows/Readme-Icons) your-email@example.com
-- ![Twitter](https://github.com/Readme-Workflows/Readme-Icons) @yourusername
+- ![Gmail](https://github.com/Readme-Workflows/Readme-Icons) iangatimu6@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
