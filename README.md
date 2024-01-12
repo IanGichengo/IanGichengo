@@ -21,8 +21,12 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 - 🔭 I’m studying front_end engineering with ALX and I'm on my journey to great code.
 - 🌱 Exploring C, Python and Linux OS.
 - ⚡ In my free time I take walks to see applications to code directly.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ian Gichengo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-gichengo-b088b824a/)
+---
 
+## 📫 How to Reach Me
+
+- ![Gmail](https://github.com/Readme-Workflows/Readme-Icons) your-email@example.com
+- ![Twitter](https://github.com/Readme-Workflows/Readme-Icons) @yourusername
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
