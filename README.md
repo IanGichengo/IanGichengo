@@ -18,7 +18,7 @@ In my free time, I contribute to open-source projects and share my insights with
 
 My professional mantra is simple yet profound: “Create with the user in mind, and success will follow.” With this guiding principle, I continue to leave a mark on the digital landscape, one line of code at a time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭 I’m studying front_end engineering with ALX and I'm on my journey to great code.
+- 🔭 I am currently engaged in front-end engineering studies at ALX, actively advancing on my path toward mastery in code craftsmanship.
 - 🌱 Exploring C, Python and Linux OS.
 - ⚡ In my free time I take walks to see applications to code directly.
 ---
