@@ -51,10 +51,6 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 </a>
 
 <a href="https://github.com/IanGichengo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGichengo&theme=dark" />
-</a>
-
-<a href="https://github.com/IanGichengo">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" />
 </a>
 
