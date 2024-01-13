@@ -48,11 +48,11 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/IanGichengo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
 </a>
 
 <a href="https://github.com/IanGichengo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGichengo&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGichengo&theme=dark" />
 </a>
 
 ---
