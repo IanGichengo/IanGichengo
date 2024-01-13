@@ -45,10 +45,15 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IanGichengo)](https://git.io/streak-stats)
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanGichengo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/IanGichengo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
+</a>
+
+<a href="https://github.com/IanGichengo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGichengo&theme=dark" />
+</a>
 
 ---
 
