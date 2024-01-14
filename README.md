@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif?cid=ecf05e47bgnnzuamx0676dqepk5k586305ad4xwe1m61poei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
 
-### &Software_engineer; &nbsp;About Me :
+### About Me :
 
   With a fervent passion for crafting seamless user experiences, I stand out as a front-end engineer. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
 
