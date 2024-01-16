@@ -20,7 +20,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 - 🔭 I am currently engaged in front-end engineering studies at ALX, actively advancing on my path toward mastery in code craftsmanship.
 - 🌱 I am currently enhancing my expertise in the C and Python programming languages, as well as deepening my understanding of the Linux operating system.
-- ⚡ In my free time I take walks to see applications to code directly.
+- ⚡ During my leisure hours, I engage in strolls to actively seek out potential coding projects.
 ---
 
 ### 📫 How to reach me:
