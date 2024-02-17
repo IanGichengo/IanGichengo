@@ -1,10 +1,8 @@
 
-<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">I'm IanGichengo</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
+</h1>
 
 <p align="center"><img src="https://media2.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif?cid=ecf05e47bgnnzuamx0676dqepk5k586305ad4xwe1m61poei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
 
@@ -25,6 +23,11 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 ### 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -42,7 +45,16 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 </p>
 
 ---
-## &#x1f4c8; GitHub Stats
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IanGichengo/IanGichengo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+### &#x1f4c8; Stats
 
 <a href="https://github.com/IanGichengo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
