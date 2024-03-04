@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
 </h1>
 
-<p align="center"><img src="https://media2.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif?cid=ecf05e47bgnnzuamx0676dqepk5k586305ad4xwe1m61poei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
 
 ### About Me :
 
@@ -45,14 +44,6 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 </p>
 
 ---
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 ### &#x1f4c8; Stats
 
