@@ -5,7 +5,7 @@
 
 ### About Me :
 
-  I am a front-end engineer passionate about crafting seamless user experiences. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front-end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
+                 I am a front-end engineer passionate about crafting seamless user experiences. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front-end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
 
 My expertise spans many modern web technologies, including HTML5, CSS3, JavaScript, and popular frameworks like React and Angular. My work ethic is unparalleled; I approach each task with precision and creativity, ensuring that the end product is functional and aesthetically pleasing.
 
