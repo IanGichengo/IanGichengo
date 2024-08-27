@@ -52,16 +52,9 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" align="left" width="600" height="200" />
 <br>
-
-<a href="https://github.com/IanGichengo">
-  <img align="center" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" />
-</a>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" align="center" width="600" height="200" />
 <br>
-
-<a href="https://github.com/IanGichengo">
-  <img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark" align="left" width="500" height="200" />
 </p>
 
 ---
