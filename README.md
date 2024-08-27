@@ -52,6 +52,8 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
 </a>
 
+<br>
+
 <a href="https://github.com/IanGichengo">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" />
 </a>
