@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iangichengo&label=Profile%20views&color=0e75b6&style=flat" alt="derrickmbugua" /> </p>
 
 ### About Me :
 
