@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/9125315/file/original-87fb1a9288bd541db17921de23eb5b72.png?resize=752x564" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iangichengo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/9125315/file/original-87fb1a9288bd541db17921de23eb5b72.png?resize=752x564" />
 
 ### About Me :
 
