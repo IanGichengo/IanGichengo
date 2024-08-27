@@ -50,7 +50,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 ### &#x1f4c8; Stats :
 
 <p>
-<img align="left" width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" align="left" width="600" height="200" />
 <br>
 
 <a href="https://github.com/IanGichengo">
