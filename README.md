@@ -55,7 +55,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 <br>
 
 <a href="https://github.com/IanGichengo">
-  <img align="center" width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </a>
 <br>
 
