@@ -59,6 +59,6 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  ```
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
