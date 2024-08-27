@@ -21,6 +21,25 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 - ⚡ During my leisure hours, I engage in strolls to actively seek out potential coding projects.
 ---
 
+## About Me
+
+I'm a front-end engineer passionate about crafting user-centric experiences. Driven by a relentless pursuit of knowledge, I stay up-to-date with the latest web technologies, including:
+
+* **HTML5 & CSS3:** Building strong foundations.
+* **JavaScript:** Interactive web experiences.
+* **React & Angular:** Powerful frameworks for complex projects.
+
+My approach to coding emphasizes both precision and creativity. I actively contribute to open-source projects and share insights with the developer community. In my free time, I explore new ways to utilize code, often by taking walks and brainstorming potential projects.
+
+**Current Focus:**
+
+* **Front-End Engineering Studies:** Honing my skills at ALX.
+* **C & Python Programming:** Expanding my technical depth.
+* **Linux Mastery:** Building a robust foundation.
+
+**Professional Mantra:** "Create with the user in mind, and success will follow."
+---
+
 ### 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
 
