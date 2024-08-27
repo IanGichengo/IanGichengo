@@ -7,11 +7,9 @@
 
 ## About Me
 
-<p align="left">
-    I am a front-end engineer passionate about crafting seamless user experiences. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front-end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
+I am a front-end engineer passionate about crafting seamless user experiences. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front-end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/9125315/file/original-87fb1a9288bd541db17921de23eb5b72.png?resize=752x564" />
-   My expertise spans many modern web technologies, including <b>HTML5, CSS3, JavaScript,</b> and popular frameworks like <b> React & Angular</b>. My work ethic is unparalleled; I approach each task with precision and creativity, ensuring that the end product is functional and aesthetically pleasing.
-</p>
+My expertise spans many modern web technologies, including <b>HTML5, CSS3, JavaScript,</b> and popular frameworks like <b> React & Angular</b>. My work ethic is unparalleled; I approach each task with precision and creativity, ensuring that the end product is functional and aesthetically pleasing.
 
 In my free time, I contribute to open-source projects and share my insights with the developer community through blogs and workshops. My enthusiasm for front-end engineering is contagious, inspiring others to explore and innovate in the field.
 
