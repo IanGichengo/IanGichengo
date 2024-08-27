@@ -38,6 +38,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -55,7 +56,7 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 <br>
 
 <a href="https://github.com/IanGichengo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" />
+  <img align="center" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" />
 </a>
 
 <br>
