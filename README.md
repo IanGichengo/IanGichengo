@@ -47,17 +47,6 @@ My professional mantra is simple yet profound: “Create with the user in mind, 
 
 ---
 
-### Stats :
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark" align="left" width="600" height="200" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark" alt="GitHub Streak" align="center" width="600" height="200" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark" align="left" width="500" height="200" />
-</p>
-
----
 ## Profile Stats
 
 **Overall Activity**
