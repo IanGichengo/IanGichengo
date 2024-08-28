@@ -50,14 +50,14 @@ In my free time, I contribute to open-source projects and share my insights with
 
 **Overall Activity**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)  
 
 **Contribution Streak**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=dark)](https://github.com/jaymwxyz/github-readme-streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=light)](https://github.com/jaymwxyz/github-readme-streak-stats)  
 
 **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
