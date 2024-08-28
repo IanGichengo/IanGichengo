@@ -3,12 +3,6 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iangichengo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-
-<style>
-    body {
-      background-color: #ADD8E6; /* Light sky blue color */
-    }
-</style>
   
 ## About Me
 
