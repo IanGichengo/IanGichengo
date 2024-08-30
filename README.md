@@ -56,7 +56,7 @@ In my free time, I contribute to open-source projects and share my insights with
 ## 📫 How to reach me
 
 <p align="left">
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
+<a href="https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)"</a>
 <a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
