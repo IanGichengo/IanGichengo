@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Matemasie&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Matemasie&pause=1000&size=35&center=true&vCenter=true&width=700&height=40&lines=Hi+There!+👋;+I'm+Ian+Gichengo!;" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iangichengo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
