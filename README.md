@@ -61,3 +61,32 @@ In my free time, I contribute to open-source projects and share my insights with
 </p>
 
 ---
+
+## Profile Stats
+
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 100%; box-sizing: border-box; padding: 10px;">
+  
+  <!-- Overall Activity -->
+  <div style="width: 100%; max-width: 500px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=IanGichengo&show_icons=true&line_height=27&count_private=true&theme=light" alt="GitHub Stats" style="width: 100%; height: auto;"/>
+    </a>
+  </div>
+  
+  <!-- Contribution Streak -->
+  <div style="width: 100%; max-width: 500px; margin-top: 20px;">
+    <a href="https://github.com/jaymwxyz/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=light" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+    </a>
+  </div>
+  
+  <!-- Top Languages -->
+  <div style="width: 100%; max-width: 500px; margin-top: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" style="width: 100%; height: auto;"/>
+    </a>
+  </div>
+
+</div>
+
+---
