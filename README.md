@@ -12,7 +12,7 @@ My expertise spans modern web technologies, including <b>HTML5, CSS3, JavaScript
 
 In my free time, I contribute to open-source projects and share my insights with the developer community through blogs and workshops. My enthusiasm for front-end engineering is contagious, inspiring others to explore and innovate in the field.
 
-<i>**My Professional Mantra is:** "Simplicity is the ultimate sophistication."</i> with this guiding principle, I continue to leave a mark on the digital landscape, one line of code at a time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+<i>**My Professional Mantra is:** "Simplicity is the ultimate sophistication"</i> with this guiding principle, I continue to leave a mark on the digital landscape, one line of code at a time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - 🔭 I am currently engaged in front-end engineering studies at ALX, actively advancing on my path toward mastery in code craftsmanship.
 - 🌱 I am currently enhancing my expertise in the C and Python programming languages, as well as deepening my understanding of the Linux operating system.
