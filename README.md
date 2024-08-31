@@ -8,11 +8,11 @@
 
 I am a front-end engineer passionate about crafting seamless user experiences. My dedication to my craft is evident in the meticulous attention to detail I bring to every project. My journey in front-end development is marked by a relentless pursuit of knowledge and a commitment to staying abreast of the latest industry trends and technologies.
 <img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/userupload/9125315/file/original-87fb1a9288bd541db17921de23eb5b72.png?resize=752x564" />
-My expertise spans many modern web technologies, including <b>HTML5, CSS3, JavaScript,</b> and popular frameworks like <b> React & Angular</b>. My work ethic is unparalleled; I approach each task with precision and creativity, ensuring that the end product is functional and aesthetically pleasing.
+My expertise spans modern web technologies, including <b>HTML5, CSS3, JavaScript,</b> and popular frameworks like <b> React & Angular</b>. My work ethic is unparalleled, I approach each task with precision and creativity, ensuring that the end product is functional and aesthetically pleasing.
 
 In my free time, I contribute to open-source projects and share my insights with the developer community through blogs and workshops. My enthusiasm for front-end engineering is contagious, inspiring others to explore and innovate in the field.
 
-<i>**My Professional Mantra is:** "Simplicity is the ultimate sophistication."</i> With this guiding principle, I continue to leave a mark on the digital landscape, one line of code at a time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+<i>**My Professional Mantra is:** "Simplicity is the ultimate sophistication."</i> with this guiding principle, I continue to leave a mark on the digital landscape, one line of code at a time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - 🔭 I am currently engaged in front-end engineering studies at ALX, actively advancing on my path toward mastery in code craftsmanship.
 - 🌱 I am currently enhancing my expertise in the C and Python programming languages, as well as deepening my understanding of the Linux operating system.
