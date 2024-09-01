@@ -60,4 +60,4 @@ In my free time, I contribute to open-source projects and share my insights with
 <a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
----
+![snake gif](https://github.com/IanGichengo/IanGichengo/blob/output/github-contribution-grid-snake.svg)
