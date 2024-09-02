@@ -18,8 +18,6 @@ In my free time, I contribute to open-source projects and share my insights with
 - 🌱 I am currently enhancing my expertise in the C and Python programming languages, as well as deepening my understanding of the Linux operating system.
 - ⚡ During my leisure hours, I engage in strolls to actively seek out potential coding projects.
 
----
-
 ## 🛠 &nbsp;Languages and Tools
 
 <p>
@@ -35,8 +33,6 @@ In my free time, I contribute to open-source projects and share my insights with
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
-
 ## Profile Stats
 
 **Overall Activity**
@@ -51,13 +47,9 @@ In my free time, I contribute to open-source projects and share my insights with
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iangichengo&show_icons=true&locale=en&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iangatimu6@gmail.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/ian-gichengo-b088b824a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-
----
