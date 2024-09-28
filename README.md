@@ -18,7 +18,7 @@ In my free time, I contribute to open-source projects and share my insights with
 - 🌱 I am currently enhancing my expertise in the C and Python programming languages, as well as deepening my understanding of the Linux operating system.
 - ⚡ During my leisure hours, I engage in strolls to actively seek out potential coding projects.
 
-## 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Tools & Languages
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
