@@ -41,7 +41,7 @@ In my free time, I contribute to open-source projects and share my insights with
 
 **Contribution Streak**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IanGichengo&theme=light)](https://github.com/jaymwxyz/github-readme-streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IanGichengo&theme=light)](https://git.io/streak-stats)
 
 **Top Languages**
 
