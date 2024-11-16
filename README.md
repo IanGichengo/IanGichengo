@@ -33,7 +33,7 @@ In my free time, I contribute to open-source projects and share my insights with
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-## Profile Stats
+## 📊 Profile Stats
 
 **Overall Activity**
 
@@ -41,7 +41,7 @@ In my free time, I contribute to open-source projects and share my insights with
 
 **Contribution Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IanGichengo&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=highcontrast)](https://git.io/streak-stats)
 
 **Top Languages**
 
