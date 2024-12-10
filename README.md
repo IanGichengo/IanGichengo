@@ -42,7 +42,7 @@ In my free time, I contribute to open-source projects and share my insights with
 
 **Contribution Streak**
 
-![Your Contribution Graph](https://raw.githubusercontent.com/IanGichengo/IanGichengo/main/.github-contribution-grid-snake.svg)
+![Your Contribution Graph](https://raw.githubusercontent.com/IanGichengo/IanGichengo/main/github-contribution-grid-snake.svg)
 
 
 **Top Languages**
