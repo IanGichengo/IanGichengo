@@ -22,8 +22,8 @@ jobs:
     - name: Check if the file exists and commit
       run: |
         if [ -f github-contribution-grid-snake.svg ]; then
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "IanGichengo"
+          git config --global user.email "iangatimu6@gmail'.com"
           git add github-contribution-grid-snake.svg
           git commit -m "Update contribution graph"
           git push
