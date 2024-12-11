@@ -23,7 +23,7 @@ jobs:
       run: |
         if [ -f github-contribution-grid-snake.svg ]; then
           git config --global user.name "IanGichengo"
-          git config --global user.email "iangatimu6@gmail'.com"
+          git config --global user.email "iangatimu6@gmail.com"  # Fixed email address
           git add github-contribution-grid-snake.svg
           git commit -m "Update contribution graph"
           git push
